@@ -1,8 +1,8 @@
 class NativeSpaceKit < Formula
   desc "Native macOS Space control with a C API and JSON CLI"
   homepage "https://github.com/Fjx-dylanZ/native-space-kit"
-  url "https://github.com/Fjx-dylanZ/native-space-kit/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "b344cd5f6d3bbac217081feb8cbb48f468db7c8e72e8c0c51c081848586c7d5f"
+  url "https://github.com/Fjx-dylanZ/native-space-kit/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "320eb36ed709c8ccfcd459a9dc8ea1670224bf06343c984f8105d6d4ff820667"
   license "MIT"
 
   depends_on :macos
