@@ -1,9 +1,9 @@
 cask "slk" do
   arch arm: "arm64", intel: "x86_64"
 
-  version "0.26.2-fjx.2"
-  sha256 arm:   "a2c1f18d894034e1a225ef0f7a114acfb99bb0ded23551b3c75b4a30c069960c",
-         intel: "d6a93f23425f620992c470890800f207fdfce3183569e4ac97342b535eb21c03"
+  version "0.26.2-fjx.3"
+  sha256 arm:   "c378c51e019792b4a7a833b6dd886202e01d2baf76443f996a74dbf412c378a3",
+         intel: "b7c19a70f276ef05a7b697f98e75be91187852d4481f9146c68d11c4997ca5f6"
 
   url "https://github.com/Fjx-dylanZ/slk/releases/download/v#{version}/slk_#{version}_darwin_#{arch}.tar.gz"
   name "slk"
